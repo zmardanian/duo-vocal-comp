@@ -1,5 +1,11 @@
 # Duo Vocal Comp
 
+> **Duo Vocal Comp continues as [Axell Duo Compressor](https://github.com/zmardanian/axell-duo-compressor).**
+> Version 2 adds a clean detector mode, a true-peak limiter, Mid/Side, an external side-chain with its own EQ,
+> threshold / knee / range / hold controls and a measured LA-2A model. It replaces this plugin in your DAW and
+> opens Duo Vocal Comp 1.x projects with the same settings and the same sound. This repository stays available
+> for the 1.0.0 release.
+
 A two-stage vocal compressor VST3 for Linux: a **FET (1176-style)** peak compressor and an
 **opto (LA-2A-style)** leveler in one plugin. It was built for rap and boom bap vocals, and works
 on any voice, bus or master that needs fast peak control plus slow, musical leveling.
